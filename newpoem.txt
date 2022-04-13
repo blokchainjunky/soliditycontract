@@ -8,3 +8,5 @@ Brown
 Purple
 Pink
 Orange
+Maroon
+Mauve
