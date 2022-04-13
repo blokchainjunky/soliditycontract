@@ -13,3 +13,4 @@ Pink
 Orange
 Maroon
 Mauve
+Indigo
